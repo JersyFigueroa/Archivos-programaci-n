@@ -1,4 +1,4 @@
-# Archivos-programacion
+# Práctica 07 - Herencia en Java
 
 ## Explicacion de las carpetas
 
