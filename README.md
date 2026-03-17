@@ -1,6 +1,6 @@
 # Práctica 07 - Herencia en Java
 
-## Explicacion de las carpetas
+## 📂 Estructura del proyecto
 
 ### A01
 Clase que representa una hora con horas y minutos.
