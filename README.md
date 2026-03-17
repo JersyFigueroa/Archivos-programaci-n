@@ -1,9 +1,10 @@
 # Práctica 07 - Herencia en Java
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/49f2b1ac-7ff9-474d-bdfd-69c2006f3e9a" />
+
 
 ## 📂 Estructura del proyecto
 
-### <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/3973cd0f-0042-4485-b60b-8e28979d3105" />
- A01 - Clase Hora
+### 🔹 A01 - Clase Hora
 Clase que representa una hora con horas y minutos.
 
 ### 🔹 A02 - HoraExacta
